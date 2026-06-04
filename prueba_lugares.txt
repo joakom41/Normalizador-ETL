@@ -1,0 +1,11 @@
+Nombre del lugar; Dirección; Georreferencia
+Torre Eiffel; 5 Avenue Anatole France, París, Francia; 48.8584, 2.2945
+Coliseo Romano; Piazza del Colosseo 1, Roma, Italia; 41.8902, 12.4922
+Estatua de la Libertad; Liberty Island, Nueva York, Estados Unidos; 40.6892, -74.0445
+Machu Picchu; Aguas Calientes, Cusco, Perú; -13.1631, -72.5450
+Cristo Redentor; Parque Nacional da Tijuca, Río de Janeiro, Brasil; -22.9519, -43.2105
+Taj Mahal; Dharmapuri, Forest Colony, Tajganj, Agra, Uttar Pradesh, India; 27.1751, 78.0421
+Palacio de La Moneda; Moneda S/N, Santiago, Chile; -33.4429, -70.6539
+Gran Muralla China; Huairou, Beijing, China; 40.4319, 116.5704
+Pirámides de Guiza; Al Haram, Giza Governorate, Egipto; 29.9792, 31.1342
+Ópera de Sídney; Bennelong Point, Sídney, Australia; -33.8568, 151.2153
